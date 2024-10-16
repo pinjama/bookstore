@@ -1,8 +1,8 @@
-# React + Vite
+# Bookstore - database
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App created with React + Vite.
 
-Currently, two official plugins are available:
+User can add, delete and filter books.
+App uses Firebase database.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can test the app from here: 
